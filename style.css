@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+body{
+    font-family: "Mulish", serif;
+}
+
+.service-text{
+    font-size:36px;
+}
+
+.service-text2{
+    color: #7D7987;
+    font-size: 18px;
+}
+.box-container{
+    background-image: url("./images/bg\ element.png");
+}
